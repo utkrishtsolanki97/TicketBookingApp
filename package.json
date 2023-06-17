@@ -1,0 +1,20 @@
+{
+  "name": "ticketbookingapp",
+  "version": "1.0.0",
+  "description": "ticket booking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TicketBookingApp"
+  },
+  "author": "Utkrisht Solanki",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0"
+  }
+}
